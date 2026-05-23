@@ -7,3 +7,6 @@
 
 
 This repo comprises of all the resourse present in the internet.
+
+
+console.log("Hello World");
