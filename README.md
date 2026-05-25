@@ -14,3 +14,6 @@ console.log("Hello World");
 
 let nim = 10;
 console.log(nim)
+
+
+//Function declaration 
