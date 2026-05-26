@@ -17,3 +17,6 @@ console.log(nim)
 
 
 //Function declaration 
+function printf(){
+     console.log("Hello");
+}
