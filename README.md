@@ -20,3 +20,4 @@ console.log(nim)
 function printf(){
      console.log("Hello");
 }
+// lexical scope 
