@@ -21,3 +21,9 @@ function printf(){
      console.log("Hello");
 }
 // lexical scope 
+
+
+
+
+
+// Block variable 
