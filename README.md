@@ -27,3 +27,7 @@ function printf(){
 
 
 // Block variable 
+
+
+
+//Console.log(2+"2");
