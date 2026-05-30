@@ -31,3 +31,10 @@ function printf(){
 
 
 //Console.log(2+"2");
+
+
+##colour changer
+
+'''
+console.log("Faiz");
+'''
